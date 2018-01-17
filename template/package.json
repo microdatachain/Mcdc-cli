@@ -1,0 +1,14 @@
+{
+  "name": "mcdc-dapps-sdk",
+  "version": "1.0.0",
+  "description": "Official SDK for the mcdc decentralized application platform",
+  "repository": "https://github.com/sqfasd/mcdc-cli.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Qingfeng Shan <sqf1225@foxmail.com>",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
